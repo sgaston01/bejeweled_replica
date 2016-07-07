@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BmpPro - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\CSCI-(~1\LOCALS~1\Temp\RSP19.tmp" with contents
+[
+msimg32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/BmpPro.pdb" /debug /machine:I386 /out:"Debug/BmpPro.exe" /pdbtype:sept 
+".\Debug\BmpPro.obj"
+".\Debug\BmpProDoc.obj"
+".\Debug\BmpProView.obj"
+".\Debug\Dialog.obj"
+".\Debug\DialogQuit.obj"
+".\Debug\InvalidClick.obj"
+".\Debug\MainFrm.obj"
+".\Debug\Picture.obj"
+".\Debug\StdAfx.obj"
+".\Debug\BmpPro.res"
+]
+Creating command line "link.exe @"C:\DOCUME~1\CSCI-(~1\LOCALS~1\Temp\RSP19.tmp""
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+BmpPro.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
